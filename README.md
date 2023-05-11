@@ -1,7 +1,7 @@
 # cse424
 
 # Research paper presentation:
-  https://drive.google.com/file/d/1cKGb7hINmKBkj7ndbgkKHEBR9OZaCRvf/view?usp=sharing
+  https://youtu.be/Ykh-Cw6zTjo
 # Research paper slide:
   https://docs.google.com/presentation/d/1PZGqOYA2F6QR2ZDrnKiJOuhVYO8RPQnyASbV2UxAbyU/edit?usp=sharing
 # Research Paper:
