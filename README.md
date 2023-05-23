@@ -1,4 +1,3 @@
-# cse424
 
 # Research paper presentation:
   https://youtu.be/Ykh-Cw6zTjo
